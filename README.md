@@ -1,1 +1,1 @@
-# panda-commerce-bootstrap
+# https://mekaiser.github.io/panda-commerce-bootstrap/
