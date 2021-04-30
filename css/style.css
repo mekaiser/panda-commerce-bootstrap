@@ -1,0 +1,47 @@
+body {
+  font-family: "Rubik", sans-serif;
+}
+.bg-nav {
+  background-color: #ddecfd;
+}
+.btn-rounded {
+  border-radius: 0.8em;
+}
+.btn-bg-color {
+  background-color: #edcd7e;
+}
+.panda-card {
+  border: 0;
+  border-radius: 0.8em;
+}
+.panda-card-footer {
+  background-color: white;
+  border: 0;
+}
+.categories img {
+  width: 100px;
+}
+.bg-yellow {
+  background-color: #edcd7e;
+}
+.bg-red {
+  background-color: #f76c6c;
+}
+.bg-blue {
+  background-color: #24305e;
+}
+.bg-light-blue {
+  background-color: #9eb6ef;
+}
+.rounded-corner {
+  border-radius: 0.8em;
+}
+.cat-rounded {
+  border-radius: 0.8em;
+}
+.panda-slide .carousel-item {
+  background-color: #9eb6ef;
+}
+.panda-inner {
+  border-radius: 0.8em;
+}
