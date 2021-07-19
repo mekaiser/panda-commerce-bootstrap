@@ -1,6 +1,6 @@
 # Panda Commerce
 
-![Panda Commerce](https://raw.githubusercontent.com/mekaiser/panda-commerce-bootstrap/main/images/panda-commerce-github-cover.png)
+![Panda Commerce](https://raw.githubusercontent.com/mekaiser/panda-commerce-bootstrap/main/images/panda-commerce-git-cover.png)
 
 A single page static landing page of a e-commerce website.
 
